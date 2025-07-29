@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "region": "89502",
+    "last_updated": "2025-07-28T21:36:15.210518",
+    "total_restaurants": 36,
+    "analysis_type": "region_specific"
+  },
+  "market_overview": {
+    "total_restaurants": 36,
+    "cuisine_diversity": 8,
+    "average_rating": 3.71,
+    "total_reviews": 4695
+  },
+  "cuisine_landscape": {
+    "dominant_cuisines": [
+      {
+        "cuisine": "Mexican",
+        "restaurant_count": 10,
+        "average_rating": 4.3,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Japanese",
+        "restaurant_count": 8,
+        "average_rating": 3.25,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Chinese",
+        "restaurant_count": 7,
+        "average_rating": 3.79,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Italian",
+        "restaurant_count": 5,
+        "average_rating": 3.3,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (Traditional)",
+        "restaurant_count": 5,
+        "average_rating": 3.7,
+        "market_position": "strong"
+      }
+    ],
+    "emerging_cuisines": [],
+    "underrepresented_cuisines": [
+      {
+        "cuisine": "Thai",
+        "restaurant_count": 2,
+        "opportunity": "improvement_or_expansion"
+      },
+      {
+        "cuisine": "Indian",
+        "restaurant_count": 1,
+        "opportunity": "improvement_or_expansion"
+      }
+    ]
+  },
+  "market_opportunities": [
+    {
+      "type": "limited_competition",
+      "cuisine": "Indian",
+      "opportunity": "Only 1 Indian restaurant in region",
+      "potential": "medium"
+    },
+    {
+      "type": "market_gap",
+      "cuisine": "Mediterranean",
+      "opportunity": "No Mediterranean restaurants in region",
+      "potential": "high"
+    }
+  ],
+  "competitive_environment": {
+    "overall_quality": "medium",
+    "quality_consistency": "variable",
+    "competition_intensity": "high",
+    "market_maturity": "developing"
+  }
+}

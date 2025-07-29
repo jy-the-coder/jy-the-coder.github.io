@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "cuisine": "Indian",
+    "last_updated": "2025-07-28T21:36:14.473453",
+    "total_restaurants": 33,
+    "regions_covered": 24,
+    "analysis_type": "region_aware"
+  },
+  "national_overview": {
+    "total_restaurants": 33,
+    "regional_presence": 24,
+    "average_rating": 3.97,
+    "total_reviews": 5215
+  },
+  "regional_variations": {
+    "19107": {
+      "restaurant_count": 3,
+      "average_rating": 4.33,
+      "total_reviews": 1388,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19104": {
+      "restaurant_count": 4,
+      "average_rating": 3.88,
+      "total_reviews": 696,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19147": {
+      "restaurant_count": 3,
+      "average_rating": 4.0,
+      "total_reviews": 254,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "19103": {
+      "restaurant_count": 2,
+      "average_rating": 4.0,
+      "total_reviews": 825,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19106": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 458,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    }
+  },
+  "market_opportunities": [
+    {
+      "region": "37203",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    },
+    {
+      "region": "70130",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    }
+  ],
+  "success_patterns": {
+    "high_performing_regions": [
+      {
+        "region": "19107",
+        "avg_rating": 4.333333333333333,
+        "market_size": 1388
+      }
+    ],
+    "emerging_markets": [
+      {
+        "region": "19147",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19103",
+        "potential": "high",
+        "competition": "low"
+      }
+    ],
+    "competitive_markets": []
+  }
+}

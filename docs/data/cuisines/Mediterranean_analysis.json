@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "cuisine": "Mediterranean",
+    "last_updated": "2025-07-28T21:36:14.478655",
+    "total_restaurants": 77,
+    "regions_covered": 47,
+    "analysis_type": "region_aware"
+  },
+  "national_overview": {
+    "total_restaurants": 77,
+    "regional_presence": 47,
+    "average_rating": 3.99,
+    "total_reviews": 10411
+  },
+  "regional_variations": {
+    "19103": {
+      "restaurant_count": 3,
+      "average_rating": 4.0,
+      "total_reviews": 825,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19147": {
+      "restaurant_count": 6,
+      "average_rating": 4.25,
+      "total_reviews": 1128,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "19107": {
+      "restaurant_count": 4,
+      "average_rating": 4.12,
+      "total_reviews": 1076,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19104": {
+      "restaurant_count": 3,
+      "average_rating": 3.83,
+      "total_reviews": 495,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "19106": {
+      "restaurant_count": 2,
+      "average_rating": 4.0,
+      "total_reviews": 321,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    }
+  },
+  "market_opportunities": [
+    {
+      "region": "37203",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 3.5,
+      "potential": "medium"
+    },
+    {
+      "region": "70130",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.75,
+      "potential": "medium"
+    }
+  ],
+  "success_patterns": {
+    "high_performing_regions": [
+      {
+        "region": "19103",
+        "avg_rating": 4.0,
+        "market_size": 825
+      },
+      {
+        "region": "19147",
+        "avg_rating": 4.25,
+        "market_size": 1128
+      },
+      {
+        "region": "19107",
+        "avg_rating": 4.125,
+        "market_size": 1076
+      }
+    ],
+    "emerging_markets": [
+      {
+        "region": "19104",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19106",
+        "potential": "high",
+        "competition": "low"
+      }
+    ],
+    "competitive_markets": []
+  }
+}

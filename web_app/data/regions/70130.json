@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "region": "70130",
+    "last_updated": "2025-07-28T21:36:14.868695",
+    "total_restaurants": 48,
+    "analysis_type": "region_specific"
+  },
+  "market_overview": {
+    "total_restaurants": 48,
+    "cuisine_diversity": 9,
+    "average_rating": 3.89,
+    "total_reviews": 14857
+  },
+  "cuisine_landscape": {
+    "dominant_cuisines": [
+      {
+        "cuisine": "American (Traditional)",
+        "restaurant_count": 14,
+        "average_rating": 3.71,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (New)",
+        "restaurant_count": 13,
+        "average_rating": 4.04,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Mexican",
+        "restaurant_count": 6,
+        "average_rating": 4.0,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Thai",
+        "restaurant_count": 6,
+        "average_rating": 4.08,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "French",
+        "restaurant_count": 6,
+        "average_rating": 4.33,
+        "market_position": "strong"
+      }
+    ],
+    "emerging_cuisines": [],
+    "underrepresented_cuisines": [
+      {
+        "cuisine": "Mediterranean",
+        "restaurant_count": 2,
+        "opportunity": "improvement_or_expansion"
+      }
+    ]
+  },
+  "market_opportunities": [
+    {
+      "type": "market_gap",
+      "cuisine": "Indian",
+      "opportunity": "No Indian restaurants in region",
+      "potential": "high"
+    }
+  ],
+  "competitive_environment": {
+    "overall_quality": "medium",
+    "quality_consistency": "variable",
+    "competition_intensity": "high",
+    "market_maturity": "mature"
+  }
+}

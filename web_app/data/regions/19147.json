@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "region": "19147",
+    "last_updated": "2025-07-28T21:36:14.863222",
+    "total_restaurants": 53,
+    "analysis_type": "region_specific"
+  },
+  "market_overview": {
+    "total_restaurants": 53,
+    "cuisine_diversity": 10,
+    "average_rating": 4.05,
+    "total_reviews": 6908
+  },
+  "cuisine_landscape": {
+    "dominant_cuisines": [
+      {
+        "cuisine": "Italian",
+        "restaurant_count": 12,
+        "average_rating": 4.08,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (New)",
+        "restaurant_count": 9,
+        "average_rating": 3.89,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Mexican",
+        "restaurant_count": 8,
+        "average_rating": 3.81,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Japanese",
+        "restaurant_count": 8,
+        "average_rating": 4.06,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (Traditional)",
+        "restaurant_count": 6,
+        "average_rating": 3.5,
+        "market_position": "strong"
+      }
+    ],
+    "emerging_cuisines": [],
+    "underrepresented_cuisines": []
+  },
+  "market_opportunities": [],
+  "competitive_environment": {
+    "overall_quality": "high",
+    "quality_consistency": "consistent",
+    "competition_intensity": "high",
+    "market_maturity": "mature"
+  }
+}

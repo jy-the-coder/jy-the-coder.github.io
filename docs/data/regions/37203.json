@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "region": "37203",
+    "last_updated": "2025-07-28T21:36:14.873335",
+    "total_restaurants": 45,
+    "analysis_type": "region_specific"
+  },
+  "market_overview": {
+    "total_restaurants": 45,
+    "cuisine_diversity": 11,
+    "average_rating": 3.76,
+    "total_reviews": 10509
+  },
+  "cuisine_landscape": {
+    "dominant_cuisines": [
+      {
+        "cuisine": "American (New)",
+        "restaurant_count": 14,
+        "average_rating": 3.96,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (Traditional)",
+        "restaurant_count": 13,
+        "average_rating": 3.81,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Italian",
+        "restaurant_count": 9,
+        "average_rating": 4.0,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Mexican",
+        "restaurant_count": 7,
+        "average_rating": 3.43,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Japanese",
+        "restaurant_count": 6,
+        "average_rating": 4.17,
+        "market_position": "strong"
+      }
+    ],
+    "emerging_cuisines": [
+      {
+        "cuisine": "French",
+        "restaurant_count": 1,
+        "potential": "high"
+      },
+      {
+        "cuisine": "Indian",
+        "restaurant_count": 1,
+        "potential": "high"
+      },
+      {
+        "cuisine": "Korean",
+        "restaurant_count": 1,
+        "potential": "high"
+      }
+    ],
+    "underrepresented_cuisines": [
+      {
+        "cuisine": "Mediterranean",
+        "restaurant_count": 1,
+        "opportunity": "improvement_or_expansion"
+      }
+    ]
+  },
+  "market_opportunities": [
+    {
+      "type": "limited_competition",
+      "cuisine": "Indian",
+      "opportunity": "Only 1 Indian restaurant in region",
+      "potential": "medium"
+    },
+    {
+      "type": "limited_competition",
+      "cuisine": "Mediterranean",
+      "opportunity": "Only 1 Mediterranean restaurant in region",
+      "potential": "medium"
+    }
+  ],
+  "competitive_environment": {
+    "overall_quality": "medium",
+    "quality_consistency": "variable",
+    "competition_intensity": "high",
+    "market_maturity": "developing"
+  }
+}

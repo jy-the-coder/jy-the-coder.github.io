@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "region": "33511",
+    "cuisine": "American (New)",
+    "last_updated": "2025-07-28T21:36:12.708300",
+    "data_sources": [
+      "insufficient_data"
+    ],
+    "restaurant_count": 0,
+    "data_quality": "insufficient_data"
+  },
+  "market_saturation": {
+    "status": "insufficient_data",
+    "message": "Not enough American (New) restaurants in region 33511 for analysis",
+    "minimum_required": 1,
+    "actual_count": 0
+  },
+  "key_competitors": [],
+  "competitive_gaps": [],
+  "differentiation_opportunities": [],
+  "success_benchmarks": {
+    "status": "insufficient_data"
+  },
+  "menu_optimization": {
+    "status": "insufficient_data",
+    "message": "Cannot generate region-specific menu recommendations"
+  },
+  "customer_insights": {
+    "status": "insufficient_data"
+  },
+  "risk_assessment": {
+    "status": "insufficient_data"
+  },
+  "actionable_recommendations": []
+}

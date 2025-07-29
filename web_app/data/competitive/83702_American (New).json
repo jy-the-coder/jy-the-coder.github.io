@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "region": "83702",
+    "cuisine": "American (New)",
+    "last_updated": "2025-07-28T21:36:12.978784",
+    "data_sources": [
+      "task1",
+      "task2",
+      "task3",
+      "task4",
+      "task5",
+      "task6"
+    ],
+    "restaurant_count": 11,
+    "data_quality": "region_specific"
+  },
+  "market_saturation": {
+    "saturation_level": "high",
+    "restaurant_density": 11,
+    "market_concentration": "distributed",
+    "entry_difficulty": "difficult",
+    "average_rating": 3.82,
+    "total_reviews": 2596,
+    "market_analysis": "Region has 11 restaurants with 3.8 avg rating"
+  },
+  "key_competitors": [
+    {
+      "name": "Trillium",
+      "business_id": "-0jzoPt3UeXn6FUXVQvyPg",
+      "market_position": "premium",
+      "threat_level": "high",
+      "rating": 4.5,
+      "stars": 4.5,
+      "review_count": 154,
+      "competitor_score": 0.77,
+      "address": "245 S Capitol Blvd",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "excellent customer satisfaction; growing customer base",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "Certified Kitchen + Bakery",
+      "business_id": "NLugmrrjRqw8jQGvard-eA",
+      "market_position": "mid-range",
+      "threat_level": "high",
+      "rating": 4.5,
+      "stars": 4.5,
+      "review_count": 93,
+      "competitor_score": 0.73,
+      "address": "1511 N 13th St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "excellent customer satisfaction",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "Fork",
+      "business_id": "jbJTF1zVmZsk4hea8hoeVA",
+      "market_position": "premium",
+      "threat_level": "high",
+      "rating": 4.0,
+      "stars": 4.0,
+      "review_count": 1810,
+      "competitor_score": 0.72,
+      "address": "199 N 8th St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "strong customer satisfaction; established customer base",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "State & Lemp",
+      "business_id": "85xgFRYB2QFvRNf3pCK6hg",
+      "market_position": "mid-range",
+      "threat_level": "high",
+      "rating": 4.5,
+      "stars": 4.5,
+      "review_count": 82,
+      "competitor_score": 0.72,
+      "address": "2870 W State St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "excellent customer satisfaction",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "Capitol Cellars",
+      "business_id": "4FaYG9qKDpDyr68bKmaIEw",
+      "market_position": "premium",
+      "threat_level": "high",
+      "rating": 4.0,
+      "stars": 4.0,
+      "review_count": 176,
+      "competitor_score": 0.71,
+      "address": "110 S 5th St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "strong customer satisfaction; growing customer base",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "Modern Bar and Restaurant",
+      "business_id": "dv1Ua07Jtcrny5OB6IeEKA",
+      "market_position": "mid-range",
+      "threat_level": "medium",
+      "rating": 4.5,
+      "stars": 4.5,
+      "review_count": 16,
+      "competitor_score": 0.68,
+      "address": "1314 W Grove St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "excellent customer satisfaction",
+      "key_weaknesses": "limited customer feedback; no reservations; no delivery service"
+    },
+    {
+      "name": "Richard's",
+      "business_id": "TUH-FGpkOKCOVGIzmtTtfg",
+      "market_position": "premium",
+      "threat_level": "medium",
+      "rating": 4.0,
+      "stars": 4.0,
+      "review_count": 122,
+      "competitor_score": 0.67,
+      "address": "500 S Capitol Blvd, Ste 100",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "strong customer satisfaction; growing customer base",
+      "key_weaknesses": "no reservations; no delivery service"
+    },
+    {
+      "name": "Smoke & Thyme",
+      "business_id": "ZpmSEd9N042IJanBiKlKiQ",
+      "market_position": "mid-range",
+      "threat_level": "medium",
+      "rating": 4.0,
+      "stars": 4.0,
+      "review_count": 19,
+      "competitor_score": 0.61,
+      "address": "701 W Fulton St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "strong customer satisfaction",
+      "key_weaknesses": "limited customer feedback; no reservations; no delivery service"
+    },
+    {
+      "name": "Café Zupas",
+      "business_id": "Gg_9lJOk0I8HDOw-Vj8P5Q",
+      "market_position": "budget",
+      "threat_level": "low",
+      "rating": 3.0,
+      "stars": 3.0,
+      "review_count": 75,
+      "competitor_score": 0.49,
+      "address": "129 Broadway St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "established presence",
+      "key_weaknesses": "customer satisfaction issues; no reservations; no delivery service"
+    },
+    {
+      "name": "Five Guys",
+      "business_id": "MYMLQfzRv8x7aO-bv9vpFg",
+      "market_position": "budget",
+      "threat_level": "low",
+      "rating": 2.5,
+      "stars": 2.5,
+      "review_count": 36,
+      "competitor_score": 0.4,
+      "address": "321 S 8th St",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "established presence",
+      "key_weaknesses": "customer satisfaction issues; limited customer feedback; no reservations; no delivery service"
+    },
+    {
+      "name": "Carl's Jr",
+      "business_id": "UFa2v-FmElnYeD4tnMz5aQ",
+      "market_position": "budget",
+      "threat_level": "low",
+      "rating": 2.5,
+      "stars": 2.5,
+      "review_count": 13,
+      "competitor_score": 0.38,
+      "address": "226 Broadway Ave",
+      "city": "Boise",
+      "state": "ID",
+      "key_strengths": "established presence",
+      "key_weaknesses": "customer satisfaction issues; limited customer feedback; no reservations; no delivery service"
+    }
+  ],
+  "competitive_gaps": [
+    {
+      "gap_type": "delivery_service",
+      "description": "Only 0/11 restaurants offer delivery",
+      "opportunity_size": "medium"
+    },
+    {
+      "gap_type": "reservation_system",
+      "description": "Only 0/11 restaurants take reservations",
+      "opportunity_size": "low"
+    },
+    {
+      "gap_type": "quality_improvement",
+      "description": "Average rating 3.8 below 4.0 threshold",
+      "opportunity_size": "high"
+    }
+  ],
+  "differentiation_opportunities": [
+    {
+      "opportunity": "Superior quality and service",
+      "market_demand": "high",
+      "implementation_difficulty": "medium",
+      "competitive_advantage": "strong",
+      "region_specific": true,
+      "basis": "Current average rating 3.8 below 4.0"
+    },
+    {
+      "opportunity": "Delivery service introduction",
+      "market_demand": "high",
+      "implementation_difficulty": "low",
+      "competitive_advantage": "medium",
+      "region_specific": true,
+      "basis": "No current delivery options in region"
+    }
+  ],
+  "success_benchmarks": {
+    "top_performer_count": 6,
+    "average_rating_leaders": 4.25,
+    "average_reviews_leaders": 406.2,
+    "regional_success_threshold": {
+      "min_rating": 4.0,
+      "min_reviews": 203
+    },
+    "success_factors_observed": [
+      "consistent_quality",
+      "customer_engagement",
+      "regional_adaptation"
+    ]
+  },
+  "menu_optimization": {
+    "status": "no_dish_data",
+    "message": "No dish data available for American (New) cuisine"
+  },
+  "customer_insights": {
+    "regional_customer_profile": {
+      "sophistication_level": "medium",
+      "primary_preferences": [
+        "value",
+        "quality",
+        "convenience"
+      ],
+      "engagement_level": "high"
+    },
+    "market_indicators": {
+      "total_regional_reviews": 2596,
+      "average_satisfaction": 3.82,
+      "restaurants_evaluated": 11
+    },
+    "regional_dining_culture": "active_reviewers_mixed_quality"
+  },
+  "risk_assessment": {
+    "identified_risks": [
+      {
+        "risk_type": "high_competition",
+        "level": "high",
+        "details": "11 existing competitors"
+      }
+    ],
+    "overall_risk_level": "low",
+    "regional_context": "Analysis based on 11 regional competitors"
+  },
+  "actionable_recommendations": [
+    {
+      "category": "competitive_advantage",
+      "recommendation": "Focus on superior quality - regional average is 3.8",
+      "priority": "high",
+      "timeline": "immediate",
+      "expected_impact": "high",
+      "region_specific": true
+    },
+    {
+      "category": "service_differentiation",
+      "recommendation": "Introduce delivery service - no regional competitors offer this",
+      "priority": "high",
+      "timeline": "launch",
+      "expected_impact": "medium",
+      "region_specific": true
+    },
+    {
+      "category": "regional_adaptation",
+      "recommendation": "Study successful patterns from 11 regional competitors",
+      "priority": "medium",
+      "timeline": "planning",
+      "expected_impact": "medium",
+      "region_specific": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "generated_at": "2025-07-28T21:36:15.501427",
+    "version": "4.0-region-specific",
+    "data_quality": "region_specific_only",
+    "fallback_strategy": "none",
+    "enhancement_level": "region_aware"
+  },
+  "data_philosophy": {
+    "approach": "region_specific_analysis",
+    "fallback_policy": "none",
+    "data_integrity": "authentic_regional_data_only",
+    "insufficient_data_handling": "explicit_marking"
+  },
+  "structure": {
+    "competitive_analyses": 105,
+    "cuisine_analyses": 6,
+    "region_analyses": 10,
+    "total_files": 122
+  },
+  "coverage": {
+    "regions": {
+      "total_available": 147,
+      "analyzed": 20,
+      "top_regions": [
+        "19107",
+        "19147",
+        "70130",
+        "37203",
+        "19104",
+        "19103",
+        "93101",
+        "89502",
+        "93117",
+        "19106"
+      ]
+    },
+    "cuisines": {
+      "total_available": 11,
+      "analyzed": 6,
+      "main_cuisines": [
+        "Chinese",
+        "Italian",
+        "Mexican",
+        "American (New)",
+        "Indian",
+        "Mediterranean"
+      ]
+    }
+  },
+  "data_sources": {
+    "task1": {
+      "restaurants_loaded": 2904,
+      "status": "loaded"
+    },
+    "task2": {
+      "similarity_matrices": 2,
+      "status": "loaded"
+    },
+    "task3": {
+      "dish_catalogs": 6,
+      "status": "loaded"
+    },
+    "task4": {
+      "dish_rankings": 6,
+      "status": "loaded"
+    },
+    "task5": {
+      "restaurant_scores": 0,
+      "status": "not_found"
+    },
+    "task6": {
+      "hygiene_scores": 0,
+      "status": "not_found"
+    }
+  },
+  "quality_assurance": {
+    "region_specific_data_only": true,
+    "no_fallback_data_used": true,
+    "authentic_regional_insights": true,
+    "insufficient_data_explicitly_marked": true
+  }
+}
