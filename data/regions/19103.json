@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "region": "19103",
+    "last_updated": "2025-07-28T21:36:15.199394",
+    "total_restaurants": 41,
+    "analysis_type": "region_specific"
+  },
+  "market_overview": {
+    "total_restaurants": 41,
+    "cuisine_diversity": 10,
+    "average_rating": 3.7,
+    "total_reviews": 7212
+  },
+  "cuisine_landscape": {
+    "dominant_cuisines": [
+      {
+        "cuisine": "American (New)",
+        "restaurant_count": 13,
+        "average_rating": 3.54,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Italian",
+        "restaurant_count": 9,
+        "average_rating": 3.83,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Japanese",
+        "restaurant_count": 7,
+        "average_rating": 3.29,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "American (Traditional)",
+        "restaurant_count": 5,
+        "average_rating": 3.9,
+        "market_position": "strong"
+      },
+      {
+        "cuisine": "Mediterranean",
+        "restaurant_count": 3,
+        "average_rating": 4.0,
+        "market_position": "strong"
+      }
+    ],
+    "emerging_cuisines": [
+      {
+        "cuisine": "Indian",
+        "restaurant_count": 1,
+        "potential": "high"
+      }
+    ],
+    "underrepresented_cuisines": [
+      {
+        "cuisine": "French",
+        "restaurant_count": 1,
+        "opportunity": "improvement_or_expansion"
+      },
+      {
+        "cuisine": "Chinese",
+        "restaurant_count": 1,
+        "opportunity": "improvement_or_expansion"
+      }
+    ]
+  },
+  "market_opportunities": [
+    {
+      "type": "limited_competition",
+      "cuisine": "Chinese",
+      "opportunity": "Only 1 Chinese restaurant in region",
+      "potential": "medium"
+    },
+    {
+      "type": "limited_competition",
+      "cuisine": "Indian",
+      "opportunity": "Only 1 Indian restaurant in region",
+      "potential": "medium"
+    }
+  ],
+  "competitive_environment": {
+    "overall_quality": "medium",
+    "quality_consistency": "variable",
+    "competition_intensity": "high",
+    "market_maturity": "developing"
+  }
+}

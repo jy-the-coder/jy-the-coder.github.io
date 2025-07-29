@@ -1,0 +1,618 @@
+{
+  "metadata": {
+    "cuisine": "American (New)",
+    "last_updated": "2025-07-28T21:36:14.464548",
+    "total_restaurants": 253,
+    "regions_covered": 88,
+    "analysis_type": "region_aware"
+  },
+  "national_overview": {
+    "total_restaurants": 253,
+    "regional_presence": 88,
+    "average_rating": 3.69,
+    "total_reviews": 58455
+  },
+  "regional_variations": {
+    "33544": {
+      "restaurant_count": 3,
+      "average_rating": 3.67,
+      "total_reviews": 262,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "37214": {
+      "restaurant_count": 5,
+      "average_rating": 3.3,
+      "total_reviews": 2017,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "33559": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 376,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "70119": {
+      "restaurant_count": 5,
+      "average_rating": 4.1,
+      "total_reviews": 981,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "19103": {
+      "restaurant_count": 13,
+      "average_rating": 3.54,
+      "total_reviews": 4015,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "19147": {
+      "restaurant_count": 9,
+      "average_rating": 3.89,
+      "total_reviews": 1088,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "83702": {
+      "restaurant_count": 11,
+      "average_rating": 3.82,
+      "total_reviews": 2596,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "37212": {
+      "restaurant_count": 3,
+      "average_rating": 3.33,
+      "total_reviews": 1448,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "70115": {
+      "restaurant_count": 2,
+      "average_rating": 4.5,
+      "total_reviews": 29,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19107": {
+      "restaurant_count": 11,
+      "average_rating": 3.77,
+      "total_reviews": 3102,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "37204": {
+      "restaurant_count": 2,
+      "average_rating": 2.5,
+      "total_reviews": 149,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "37201": {
+      "restaurant_count": 5,
+      "average_rating": 3.6,
+      "total_reviews": 1563,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "37205": {
+      "restaurant_count": 2,
+      "average_rating": 3.0,
+      "total_reviews": 70,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "89502": {
+      "restaurant_count": 3,
+      "average_rating": 3.83,
+      "total_reviews": 593,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "89509": {
+      "restaurant_count": 3,
+      "average_rating": 4.0,
+      "total_reviews": 593,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "70123": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 95,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "33556": {
+      "restaurant_count": 2,
+      "average_rating": 3.5,
+      "total_reviews": 55,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19104": {
+      "restaurant_count": 7,
+      "average_rating": 3.5,
+      "total_reviews": 411,
+      "market_maturity": "developing",
+      "competition_level": "high"
+    },
+    "19151": {
+      "restaurant_count": 2,
+      "average_rating": 3.0,
+      "total_reviews": 56,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "70117": {
+      "restaurant_count": 4,
+      "average_rating": 4.12,
+      "total_reviews": 545,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "37219": {
+      "restaurant_count": 2,
+      "average_rating": 3.5,
+      "total_reviews": 112,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "93108": {
+      "restaurant_count": 3,
+      "average_rating": 4.17,
+      "total_reviews": 263,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "19146": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 990,
+      "market_maturity": "mature",
+      "competition_level": "low"
+    },
+    "70116": {
+      "restaurant_count": 3,
+      "average_rating": 4.0,
+      "total_reviews": 1800,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "93101": {
+      "restaurant_count": 15,
+      "average_rating": 3.7,
+      "total_reviews": 4466,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "37203": {
+      "restaurant_count": 14,
+      "average_rating": 3.96,
+      "total_reviews": 5400,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "70118": {
+      "restaurant_count": 2,
+      "average_rating": 4.0,
+      "total_reviews": 214,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "70130": {
+      "restaurant_count": 13,
+      "average_rating": 4.04,
+      "total_reviews": 7439,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "89501": {
+      "restaurant_count": 6,
+      "average_rating": 3.92,
+      "total_reviews": 1710,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "19152": {
+      "restaurant_count": 3,
+      "average_rating": 3.67,
+      "total_reviews": 567,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19106": {
+      "restaurant_count": 7,
+      "average_rating": 3.36,
+      "total_reviews": 3031,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "19148": {
+      "restaurant_count": 4,
+      "average_rating": 4.38,
+      "total_reviews": 1814,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "37215": {
+      "restaurant_count": 3,
+      "average_rating": 3.5,
+      "total_reviews": 403,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "37209": {
+      "restaurant_count": 2,
+      "average_rating": 3.0,
+      "total_reviews": 102,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "93105": {
+      "restaurant_count": 4,
+      "average_rating": 3.5,
+      "total_reviews": 644,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19102": {
+      "restaurant_count": 5,
+      "average_rating": 3.2,
+      "total_reviews": 1635,
+      "market_maturity": "mature",
+      "competition_level": "high"
+    },
+    "70114": {
+      "restaurant_count": 2,
+      "average_rating": 3.5,
+      "total_reviews": 61,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "37206": {
+      "restaurant_count": 4,
+      "average_rating": 4.12,
+      "total_reviews": 958,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19128": {
+      "restaurant_count": 2,
+      "average_rating": 3.0,
+      "total_reviews": 44,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19129": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 134,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "70128": {
+      "restaurant_count": 2,
+      "average_rating": 2.75,
+      "total_reviews": 91,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19125": {
+      "restaurant_count": 3,
+      "average_rating": 3.83,
+      "total_reviews": 1340,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19145": {
+      "restaurant_count": 2,
+      "average_rating": 4.0,
+      "total_reviews": 681,
+      "market_maturity": "mature",
+      "competition_level": "low"
+    },
+    "19118": {
+      "restaurant_count": 2,
+      "average_rating": 4.0,
+      "total_reviews": 145,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19123": {
+      "restaurant_count": 3,
+      "average_rating": 3.67,
+      "total_reviews": 284,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "70112": {
+      "restaurant_count": 3,
+      "average_rating": 3.33,
+      "total_reviews": 381,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "19130": {
+      "restaurant_count": 2,
+      "average_rating": 2.75,
+      "total_reviews": 411,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19116": {
+      "restaurant_count": 2,
+      "average_rating": 2.5,
+      "total_reviews": 31,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    }
+  },
+  "market_opportunities": [
+    {
+      "region": "33559",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.75,
+      "potential": "medium"
+    },
+    {
+      "region": "19131",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 3.0,
+      "potential": "medium"
+    },
+    {
+      "region": "33563",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 3.5,
+      "potential": "medium"
+    },
+    {
+      "region": "70115",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 4.5,
+      "potential": "high"
+    },
+    {
+      "region": "37204",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 2.5,
+      "potential": "medium"
+    },
+    {
+      "region": "37205",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.0,
+      "potential": "medium"
+    },
+    {
+      "region": "70123",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.75,
+      "potential": "medium"
+    },
+    {
+      "region": "89503",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    },
+    {
+      "region": "33556",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.5,
+      "potential": "medium"
+    },
+    {
+      "region": "19151",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.0,
+      "potential": "medium"
+    }
+  ],
+  "success_patterns": {
+    "high_performing_regions": [
+      {
+        "region": "70119",
+        "avg_rating": 4.1,
+        "market_size": 981
+      },
+      {
+        "region": "89509",
+        "avg_rating": 4.0,
+        "market_size": 593
+      },
+      {
+        "region": "70117",
+        "avg_rating": 4.125,
+        "market_size": 545
+      },
+      {
+        "region": "70116",
+        "avg_rating": 4.0,
+        "market_size": 1800
+      },
+      {
+        "region": "70130",
+        "avg_rating": 4.038461538461538,
+        "market_size": 7439
+      },
+      {
+        "region": "19148",
+        "avg_rating": 4.375,
+        "market_size": 1814
+      },
+      {
+        "region": "37206",
+        "avg_rating": 4.125,
+        "market_size": 958
+      },
+      {
+        "region": "19145",
+        "avg_rating": 4.0,
+        "market_size": 681
+      }
+    ],
+    "emerging_markets": [
+      {
+        "region": "33544",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "33559",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "70115",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "89502",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "70123",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "33556",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "37219",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "93108",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19146",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "70118",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19152",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "37215",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "70114",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19129",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19125",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19118",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19123",
+        "potential": "high",
+        "competition": "low"
+      }
+    ],
+    "competitive_markets": [
+      {
+        "region": "37214",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19103",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19147",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "83702",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19107",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "37201",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19104",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "93101",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "37203",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "89501",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19106",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      },
+      {
+        "region": "19102",
+        "competition_level": "high",
+        "market_maturity": "mature"
+      }
+    ]
+  }
+}

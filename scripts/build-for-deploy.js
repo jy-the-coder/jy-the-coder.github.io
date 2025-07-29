@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-
 const fs = require('fs');
 const path = require('path');
 
@@ -40,29 +39,29 @@ const SOURCE_DIR = path.join(__dirname, '../web_app');
 const DEST_DIR = path.join(__dirname, '../docs');
 
 async function buildForDeploy() {
-    console.log('🚀 Building for GitHub Pages deployment...');
+    console.log('Building for GitHub Pages deployment...');
     
     try {
-        console.log('🧹 Cleaning docs directory...');
+        console.log('Cleaning docs directory...');
         await fse.emptyDir(DEST_DIR);
 
-        console.log('📁 Copying files from web_app to docs...');
+        console.log('Copying files from web_app to docs...');
         await fse.copy(SOURCE_DIR, DEST_DIR);
 
-        console.log('⚙️  Modifying app.js for GitHub Pages...');
+        console.log('Modifying app.js for GitHub Pages...');
         await modifyAppJs();
 
-        console.log('📝 Modifying index.html for GitHub Pages...');
+        console.log('Modifying index.html for GitHub Pages...');
         await modifyIndexHtml();
 
-        console.log('📄 Creating .nojekyll file...');
+        console.log('Creating .nojekyll file...');
         await fse.writeFile(path.join(DEST_DIR, '.nojekyll'), '');
         
-        console.log('✅ Build completed successfully!');
-        console.log('📍 Files are ready in the docs/ directory for GitHub Pages');
+        console.log('Build completed successfully!');
+        console.log('Files are ready in the docs/ directory for GitHub Pages');
         
     } catch (error) {
-        console.error('❌ Build failed:', error);
+        console.error('Build failed:', error);
         process.exit(1);
     }
 }
@@ -72,21 +71,16 @@ async function modifyAppJs() {
     let content = await fs.readFile(appJsPath, 'utf8');
 
     const envDetectionCode = `
-// Environment detection for GitHub Pages vs Local development
 const isGitHubPages = window.location.hostname.includes('github.io');
 const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
 
-// Configure base path based on environment
 let basePath = '';
 if (isGitHubPages) {
-    // For GitHub Pages: https://username.github.io/restaurant-bi/
     basePath = window.location.pathname.replace(/\\/[^/]*$/, '');
     if (!basePath.endsWith('/')) basePath += '/';
 } else if (isLocalhost) {
-    // For localhost development
     basePath = './';
 } else {
-    // Fallback
     basePath = './';
 }
 
@@ -111,7 +105,6 @@ async function modifyIndexHtml() {
     let content = await fs.readFile(indexPath, 'utf8');
 
     const githubPagesMeta = `
-    <!-- GitHub Pages optimization -->
     <meta name="description" content="Restaurant Business Intelligence Platform - Data-driven insights for restaurant success">
     <meta name="keywords" content="restaurant, business intelligence, data visualization, yelp analysis">
     <meta property="og:title" content="Restaurant Business Intelligence Platform">

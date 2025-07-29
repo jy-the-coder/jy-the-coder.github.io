@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "cuisine": "Indian",
+    "last_updated": "2025-07-28T21:36:14.473453",
+    "total_restaurants": 33,
+    "regions_covered": 24,
+    "analysis_type": "region_aware"
+  },
+  "national_overview": {
+    "total_restaurants": 33,
+    "regional_presence": 24,
+    "average_rating": 3.97,
+    "total_reviews": 5215
+  },
+  "regional_variations": {
+    "19107": {
+      "restaurant_count": 3,
+      "average_rating": 4.33,
+      "total_reviews": 1388,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19104": {
+      "restaurant_count": 4,
+      "average_rating": 3.88,
+      "total_reviews": 696,
+      "market_maturity": "mature",
+      "competition_level": "medium"
+    },
+    "19148": {
+      "restaurant_count": 2,
+      "average_rating": 3.75,
+      "total_reviews": 100,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    },
+    "19147": {
+      "restaurant_count": 3,
+      "average_rating": 4.0,
+      "total_reviews": 254,
+      "market_maturity": "developing",
+      "competition_level": "medium"
+    },
+    "19115": {
+      "restaurant_count": 2,
+      "average_rating": 4.75,
+      "total_reviews": 47,
+      "market_maturity": "developing",
+      "competition_level": "low"
+    }
+  },
+  "market_opportunities": [
+    {
+      "region": "19103",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    },
+    {
+      "region": "37211",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    },
+    {
+      "region": "83702",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    },
+    {
+      "region": "70118",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 2.5,
+      "potential": "medium"
+    },
+    {
+      "region": "19143",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.5,
+      "potential": "high"
+    },
+    {
+      "region": "19148",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 3.75,
+      "potential": "medium"
+    },
+    {
+      "region": "93101",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 2.0,
+      "potential": "medium"
+    },
+    {
+      "region": "19123",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 3.0,
+      "potential": "medium"
+    },
+    {
+      "region": "19115",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 2,
+      "market_quality": 4.75,
+      "potential": "high"
+    },
+    {
+      "region": "19116",
+      "opportunity_type": "market_expansion",
+      "current_competitors": 1,
+      "market_quality": 4.0,
+      "potential": "high"
+    }
+  ],
+  "success_patterns": {
+    "high_performing_regions": [
+      {
+        "region": "19107",
+        "avg_rating": 4.333333333333333,
+        "market_size": 1388
+      }
+    ],
+    "emerging_markets": [
+      {
+        "region": "19148",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19147",
+        "potential": "high",
+        "competition": "low"
+      },
+      {
+        "region": "19115",
+        "potential": "high",
+        "competition": "low"
+      }
+    ],
+    "competitive_markets": []
+  }
+}
